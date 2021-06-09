@@ -29,3 +29,11 @@ Gerenciar variaveis de ambiente
 Permitir acesso a API
 ### npm install --save cors 
 
+Instalar a drive do base de dados MYSQL
+### npm install --save mysql2
+
+Sequelizer é uma biblioteca JavaScript que facilita o gerenciamento de uma base de dados SQL em 
+### npm install --save sequelize
+
+Modulo para criptografar a senha
+### npm install --save bcryptjs
